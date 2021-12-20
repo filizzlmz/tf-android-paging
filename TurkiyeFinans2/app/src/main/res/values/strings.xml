@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TurkiyeFinans2</string>
+
+    <string name="hint_search">Search</string>
+
+    <string name="tv_price"> %1$s USD</string>
+
+    <string name="btn_click_url">Click Artist View</string>
+</resources>
